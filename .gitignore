@@ -1,0 +1,16 @@
+*.ilk
+*.ipch
+*.sdf
+*.tlog
+*.cache
+*.obj
+*.pch
+*.log
+waterfall/Debug/vc100.pdb
+waterfall/Release/vc100.pdb
+*.idb
+*.aps
+*.manifest
+waterfall/Debug/waterfall.exe.embed.manifest.res
+waterfall/Debug/waterfall.lastbuildstate
+waterfall/Release/waterfall.lastbuildstate
